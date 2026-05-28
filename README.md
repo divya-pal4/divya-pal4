@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffa3&height=130&section=header&text=Hey,%20I'm%20Divya%20%F0%9F%91%8B&fontSize=34&fontColor=0D1117&fontAlignY=42&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&width=550&lines=hey+there!+i'm+divya+%F0%9F%91%8B;building+AI+systems+end-to-end+%F0%9F%A7%A0;RAG+%C2%B7+RL+environments+%C2%B7+real-time+apps;open+to+summer+internships+%F0%9F%92%BC" alt="Typing SVG" />
@@ -26,10 +28,10 @@
 
 | | project | what it does |
 |---|---|---|
-| 🧠 | **[RAG Study Assistant](https://github.com/divya-pal4/study-assitant-rag)** `solo` | fully local RAG pipeline — FAISS + LLaMA via Ollama, zero API cost, real-time streaming |
+| 🧠 | **[RAG Study Assistant](https://github.com/divya-pal4/study-assitant-rag)** `solo` | fully local RAG pipeline - FAISS + LLaMA via Ollama, zero API cost, real-time streaming |
 | 🤖 | **[Code Review OpenEnv](https://github.com/divya-pal4/code-review-openenv)** `mostly solo` · [live](https://divya-pall-code-review-openenv.hf.space) | RL gym for AI agents on code review — 3 tasks, graded on explanation + test pass ratio |
 | 🎮 | **[Sckribble](https://github.com/divya-pal4/sckribble)** `solo` · [live](https://sckribble-client.onrender.com) | real-time multiplayer drawing game — WebSocket sync, OOP architecture, drawing replay |
-| 🌿 | **[CarbonSetu](https://github.com/divya-pal4/Mangrove-classification-model)** `team · ml lead` · [live](https://sih-25-sage.vercel.app/) | transformer classifier on satellite imagery for blue carbon credits, deployed on AWS |
+| 🌿 | **[CarbonSetu](https://github.com/divya-pal4/Mangrove-classification-model)** `team · ml lead` · [live](https://sih-25-sage.vercel.app/) | transformer classifier on satellite imagery for blue carbon credits|
 | 🔗 | **[WebhookVault](https://github.com/srishtea-22/WE_Capstone_Project)** `team · frontend` | webhook inspector — auto type gen into TS/Python/Go, handler codegen for 5 frameworks |
 
 ---
@@ -46,11 +48,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="50"/>
-<img src="https://img.icons8.com/color/64/000000/python--v1.png" alt="Flask" title="Flask" width="1"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="60"/>
-<img src="https://img.icons8.com/color/64/amazon-web-services.png" alt="AWS" title="AWS" width="55"/>
 <img src="https://img.icons8.com/color/64/git.png" alt="Git" title="Git" width="55"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" title="Tailwind" width="50"/>
 <img src="https://img.icons8.com/color/64/linux.png" alt="Linux" title="Linux" width="55"/>
@@ -64,9 +65,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divya-pal4&theme=dark&hide_border=true&background=0D1117&stroke=00ffa3&ring=00ffa3&fire=00ffa3&currStreakLabel=00ffa3" height="160"/>
+<img src="https://streak-stats.demolab.com?user=divya-pal4&theme=dark&hide_border=true&background=0D1117&stroke=00ffa3&ring=00ffa3&fire=00ffa3&currStreakLabel=00ffa3" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-pal4&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ffa3&text_color=ffffff&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-pal4&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ffa3&text_color=ffffff&langs_count=6&cache_seconds=1800" height="160"/>
 
 </div>
 
@@ -74,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=divya-pal4&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ffa3&icon_color=00ffa3&text_color=ffffff&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=divya-pal4&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ffa3&icon_color=00ffa3&text_color=ffffff&count_private=true&cache_seconds=1800" height="160"/>
 
 </div>
 
@@ -99,3 +100,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/divya-pal4/count.svg)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffa3&height=100&section=footer" width="100%"/>
