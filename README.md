@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffa3&height=120&section=header&text=Hey,%20I'm%20Divya%20👋&fontSize=32&fontColor=0a0a0a&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b35&height=120&section=header&text=Hey,%20I'm%20Divya%20👋&fontSize=32&fontColor=0a0a0a&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -10,10 +10,9 @@ open to summer internship in SWE or AI/ML
 
 <br/>
 
-**🥇 Google Solution Challenge 2025** — Top 105 globally out of 64,000+  
-**🎓 Google Women Engineers Scholar** — Top 1% of 30,000+ · ₹1L scholarship  
-**🛒 Flipkart GRiD 7.0** — Semifinalist, Software Dev Track  
-**💻 300+** DSA problems · LeetCode · CodeChef · Codeforces  
+**🥇 Google Solution Challenge 2025** - Top 105 globally out of 64,000+  
+**🎓 Google Women Engineers Scholar** - Top 1% of 30,000+ · ₹1L scholarship  
+**🛒 Flipkart GRiD 7.0** - Semifinalist, Software Dev Track    
 
 📬 divyapal065@gmail.com · [LinkedIn](https://www.linkedin.com/in/divya-pal04/) · [LeetCode](https://leetcode.com/u/Divya_Pal/)
 
@@ -22,15 +21,15 @@ open to summer internship in SWE or AI/ML
 ### things i've built
 
 **🧠 [RAG Study Assistant](https://github.com/divya-pal4/study-assitant-rag)** &nbsp;`solo`  
-fully local RAG pipeline — FAISS + LLaMA via Ollama, zero API cost, real-time token streaming, dual-service backend  
+fully local RAG pipeline - FAISS + LLaMA via Ollama, zero API cost, real-time token streaming, dual-service backend  
 `FastAPI` `FAISS` `MiniLM` `Ollama` `Node.js`
 
 **🤖 [Code Review OpenEnv](https://github.com/divya-pal4/code-review-openenv)** &nbsp;`mostly solo` &nbsp;·&nbsp; [live](https://divya-pall-code-review-openenv.hf.space)  
-RL gym for training AI agents on code review — 3 tasks of increasing difficulty, graded on explanation quality + test pass ratio  
+RL gym for training AI agents on code review - 3 tasks of increasing difficulty, graded on explanation quality + test pass ratio  
 `FastAPI` `Docker` `HuggingFace` `Python`
 
 **🎮 [Sckribble](https://github.com/divya-pal4/sckribble)** &nbsp;`solo` &nbsp;·&nbsp; [live](https://sckribble-client.onrender.com)  
-real-time multiplayer drawing game — WebSocket sync, OOP architecture, spectator mode, drawing replay  
+real-time multiplayer drawing game - WebSocket sync, OOP architecture, spectator mode, drawing replay  
 `React` `Socket.IO` `Node.js` `Express`
 
 **🌿 [CarbonSetu](https://github.com/divya-pal4/Mangrove-classification-model)** &nbsp;`team · ml lead` &nbsp;·&nbsp; [live](https://sih-25-sage.vercel.app/)  
@@ -38,7 +37,7 @@ transformer classifier on satellite imagery for blue carbon credit estimation, d
 `TensorFlow` `OpenCV` `Transformers` `AWS`
 
 **🔗 [WebhookVault](https://github.com/srishtea-22/WE_Capstone_Project)** &nbsp;`team · frontend`  
-webhook inspector — auto type gen into TS/Python/Go, handler codegen for 5 frameworks  
+webhook inspector - auto type gen into TS/Python/Go, handler codegen for 5 frameworks  
 `Next.js` `TypeScript` `Socket.IO` `Redis`
 
 ---
@@ -66,7 +65,7 @@ webhook inspector — auto type gen into TS/Python/Go, handler codegen for 5 fra
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=divya-pal4&theme=dark&hide_border=true&background=0D1117&stroke=00ffa3&ring=00ffa3&fire=00ffa3&currStreakLabel=00ffa3" height="150"/>
+<img src="https://streak-stats.demolab.com?user=divya-pal4&theme=dark&hide_border=true&background=0D1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35" height="150"/>
 
 </div>
 
@@ -74,8 +73,8 @@ webhook inspector — auto type gen into TS/Python/Go, handler codegen for 5 fra
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/divya-pal4/count.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdivya-pal4&count_bg=%23FF6B35&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffa3&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b35&height=100&section=footer" width="100%"/>
