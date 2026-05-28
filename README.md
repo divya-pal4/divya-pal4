@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b35&height=120&section=header&text=Hey,%20I'm%20Divya%20👋&fontSize=32&fontColor=0a0a0a&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header&text=Hey,%20I'm%20Divya%20👋&fontSize=32&fontColor=0a0a0a&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -65,7 +65,7 @@ webhook inspector - auto type gen into TS/Python/Go, handler codegen for 5 frame
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=divya-pal4&theme=dark&hide_border=true&background=0D1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35" height="150"/>
+<img src="https://streak-stats.demolab.com?user=divya-pal4&theme=dark&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=ff6b35" height="150"/>
 
 </div>
 
@@ -77,4 +77,4 @@ webhook inspector - auto type gen into TS/Python/Go, handler codegen for 5 frame
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b35&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
