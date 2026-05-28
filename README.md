@@ -28,10 +28,10 @@
 
 | | project | what it does |
 |---|---|---|
-| 🧠 | **[RAG Study Assistant](https://github.com/divya-pal4/study-assitant-rag)** `solo` | fully local RAG pipeline - FAISS + LLaMA via Ollama, zero API cost, real-time streaming |
+| 🧠 | **[RAG Study Assistant](https://github.com/divya-pal4/study-assitant-rag)** `solo` | fully local RAG pipeline — FAISS + LLaMA via Ollama, zero API cost, real-time streaming |
 | 🤖 | **[Code Review OpenEnv](https://github.com/divya-pal4/code-review-openenv)** `mostly solo` · [live](https://divya-pall-code-review-openenv.hf.space) | RL gym for AI agents on code review — 3 tasks, graded on explanation + test pass ratio |
 | 🎮 | **[Sckribble](https://github.com/divya-pal4/sckribble)** `solo` · [live](https://sckribble-client.onrender.com) | real-time multiplayer drawing game — WebSocket sync, OOP architecture, drawing replay |
-| 🌿 | **[CarbonSetu](https://github.com/divya-pal4/Mangrove-classification-model)** `team · ml lead` · [live](https://sih-25-sage.vercel.app/) | transformer classifier on satellite imagery for blue carbon credits|
+| 🌿 | **[CarbonSetu](https://github.com/divya-pal4/Mangrove-classification-model)** `team · ml lead` · [live](https://sih-25-sage.vercel.app/) | transformer classifier on satellite imagery for blue carbon credits, deployed on AWS |
 | 🔗 | **[WebhookVault](https://github.com/srishtea-22/WE_Capstone_Project)** `team · frontend` | webhook inspector — auto type gen into TS/Python/Go, handler codegen for 5 frameworks |
 
 ---
