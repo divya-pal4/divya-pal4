@@ -12,7 +12,8 @@ open to summer internship in SWE or AI/ML
 
 **🥇 Google Solution Challenge 2025** - Top 105 globally out of 64,000+  
 **🎓 Google Women Engineers Scholar** - Top 1% of 30,000+ · ₹1L scholarship  
-**🛒 Flipkart GRiD 7.0** - Semifinalist, Software Dev Track    
+**🛒 Flipkart GRiD 7.0** - Semifinalist, Software Dev Track  
+**💻 300+** DSA problems · LeetCode · CodeChef · Codeforces
 
 📬 divyapal065@gmail.com · [LinkedIn](https://www.linkedin.com/in/divya-pal04/) · [LeetCode](https://leetcode.com/u/Divya_Pal/)
 
@@ -24,7 +25,7 @@ open to summer internship in SWE or AI/ML
 fully local RAG pipeline - FAISS + LLaMA via Ollama, zero API cost, real-time token streaming, dual-service backend  
 `FastAPI` `FAISS` `MiniLM` `Ollama` `Node.js`
 
-**🤖 [Code Review OpenEnv](https://github.com/divya-pal4/code-review-openenv)** &nbsp;`mostly solo` &nbsp;·&nbsp; [live](https://divya-pall-code-review-openenv.hf.space)  
+**🤖 [Code Review OpenEnv](https://github.com/divya-pal4/code-review-openenv)** &nbsp;`team · led` &nbsp;·&nbsp; [live](https://divya-pall-code-review-openenv.hf.space)  
 RL gym for training AI agents on code review - 3 tasks of increasing difficulty, graded on explanation quality + test pass ratio  
 `FastAPI` `Docker` `HuggingFace` `Python`
 
@@ -45,16 +46,18 @@ webhook inspector - auto type gen into TS/Python/Go, handler codegen for 5 frame
 ### stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -73,7 +76,7 @@ webhook inspector - auto type gen into TS/Python/Go, handler codegen for 5 frame
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdivya-pal4&count_bg=%23FF6B35&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdivya-pal4&count_bg=%2300D4FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
 
