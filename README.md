@@ -13,6 +13,7 @@ open to summer internship in SWE or AI/ML
 **🥇 Google Solution Challenge 2025** - Top 105 globally out of 64,000+  
 **🎓 Google Women Engineers Scholar** - Top 1% of 30,000+ · ₹1L scholarship  
 **🛒 Flipkart GRiD 7.0** - Semifinalist, Software Dev Track  
+**💻 300+** DSA problems · LeetCode · CodeChef · Codeforces
 
 📬 divyapal065@gmail.com · [LinkedIn](https://www.linkedin.com/in/divya-pal04/) · [LeetCode](https://leetcode.com/u/Divya_Pal/)
 
@@ -71,12 +72,5 @@ webhook inspector - auto type gen into TS/Python/Go, handler codegen for 5 frame
 
 </div>
 
----
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdivya-pal4&count_bg=%2300D4FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
