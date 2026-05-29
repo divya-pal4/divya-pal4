@@ -13,7 +13,6 @@ open to summer internship in SWE or AI/ML
 **🥇 Google Solution Challenge 2025** - Top 105 globally out of 64,000+  
 **🎓 Google Women Engineers Scholar** - Top 1% of 30,000+ · ₹1L scholarship  
 **🛒 Flipkart GRiD 7.0** - Semifinalist, Software Dev Track  
-**💻 300+** DSA problems · LeetCode · CodeChef · Codeforces
 
 📬 divyapal065@gmail.com · [LinkedIn](https://www.linkedin.com/in/divya-pal04/) · [LeetCode](https://leetcode.com/u/Divya_Pal/)
 
